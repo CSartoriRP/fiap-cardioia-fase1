@@ -1,0 +1,24 @@
+CardioIA - Base textual para NLP
+Tema: Eletrocardiograma (ECG/EKG)
+Fonte temática principal: MedlinePlus, U.S. National Library of Medicine, Electrocardiogram.
+Natureza deste arquivo: síntese educacional elaborada para o projeto CardioIA; não é reprodução integral da página original.
+
+O eletrocardiograma, também chamado ECG ou EKG, é um exame rápido e não invasivo utilizado para registrar os sinais elétricos produzidos pelo coração durante seus batimentos. O registro apresenta linhas e ondas que representam diferentes etapas da atividade elétrica cardíaca.
+
+Entre os componentes fundamentais do traçado estão a onda P, o complexo QRS e a onda T. Esses componentes estão relacionados à ativação elétrica das diferentes câmaras cardíacas e à recuperação elétrica após a contração.
+
+A análise de um ECG fornece informações sobre frequência cardíaca, regularidade do ritmo e características temporais dos sinais elétricos. Alterações no traçado podem auxiliar profissionais de saúde na investigação de condições cardíacas quando interpretadas em conjunto com história clínica e outros exames.
+
+O ECG pode fazer parte da avaliação de arritmias, cardiomiopatias, doença arterial coronariana, infarto, insuficiência cardíaca, doenças das válvulas e cardiopatias congênitas. Sintomas que podem levar à realização do exame incluem dor no peito, palpitações ou ritmo irregular, falta de ar, tontura, fadiga e redução da capacidade para exercícios.
+
+Durante um ECG convencional, eletrodos são posicionados sobre a pele e conectados ao equipamento responsável por registrar a atividade elétrica cardíaca. O exame registra sinais produzidos pelo próprio coração e não envia eletricidade ao corpo.
+
+Um resultado alterado não deve ser interpretado isoladamente como diagnóstico definitivo. A interpretação clínica depende do padrão encontrado, dos sintomas, do histórico médico e, quando necessário, de outros exames.
+
+Para aplicações de inteligência artificial, imagens de ECG podem ser utilizadas em tarefas de visão computacional como classificação de padrões, reconhecimento de alterações e identificação de características do traçado. A representação textual sobre ECG também pode ser utilizada por técnicas de NLP para extração de sintomas, condições cardíacas, exames e relações clínicas.
+
+No CardioIA, o conteúdo textual sobre eletrocardiografia cria uma ligação conceitual entre os dados clínicos estruturados e o conjunto de imagens de ECG que será utilizado na etapa de visão computacional.
+
+Referência:
+MedlinePlus, U.S. National Library of Medicine. Electrocardiogram.
+Página oficial consultada em 23/08/2026.
